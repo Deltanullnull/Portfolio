@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "Kai Zaremba",
   "license": "ISC",
-  "homepage": "https://deltanullnull.github.io/portfolio",
+  "homepage": "https://deltanullnull.github.io/Portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
