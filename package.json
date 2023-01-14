@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "predeploy": "rm -rf dist && parcel build --no-source-maps --public-url ./",
+    "predeploy": "rmdir /s /q dist && parcel build --no-source-maps --public-url ./",
     "deploy": "gh-pages -d dist"    
   },
   "keywords": [],
