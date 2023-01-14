@@ -1,0 +1,14 @@
+.introduction {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: start;
+}
+
+.nav-link {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 20px;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
