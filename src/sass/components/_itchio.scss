@@ -1,0 +1,5 @@
+iframe {
+    @include respond(phone) {
+        width: 206;
+    }
+}
